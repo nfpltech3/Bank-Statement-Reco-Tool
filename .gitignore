@@ -6,3 +6,5 @@ CSV Output/
 ~$*.xlsx
 build/
 dist/
+*.xlsx
+*.xls
