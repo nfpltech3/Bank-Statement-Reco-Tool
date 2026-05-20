@@ -1,7 +1,7 @@
-# Nagarkot Bank Statement Reconciliation Tool User Guide
+# Bank Statement Reconciliation Tool User Guide
 
 ## Introduction
-The Nagarkot Bank Statement Reconciliation Tool is a premium-branded, high-safety desktop application designed to streamline the parsing of bank statements, mapping withdrawals to their corresponding ledger accounts, and exporting clean CSV files compliant with the Logisys G/L ledger schema.
+The Bank Statement Reconciliation Tool is a premium-branded, high-safety desktop application designed to streamline the parsing of bank statements, mapping withdrawals to their corresponding ledger accounts, and exporting clean CSV files compliant with the Logisys G/L ledger schema.
 
 ---
 

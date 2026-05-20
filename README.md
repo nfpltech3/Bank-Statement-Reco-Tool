@@ -1,4 +1,4 @@
-# Nagarkot Bank Statement Reconciliation Tool
+# Bank Statement Reconciliation Tool
 
 An advanced, premium-branded desktop utility designed to streamline bank statement reconciliation and preparation for Logisys G/L ledger entries.
 
